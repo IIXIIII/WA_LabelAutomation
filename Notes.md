@@ -1,4 +1,3 @@
-# **Midterm 01 review**
   
 ## **L3**  
 ### **High Dimensional Data**  
