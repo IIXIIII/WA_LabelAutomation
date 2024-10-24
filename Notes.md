@@ -1,4 +1,3 @@
-  
 ## **L3**  
 ### **High Dimensional Data**  
     Datasets with a large number of features.    
@@ -201,7 +200,22 @@ Make the vector high dimensional(add another Y axis, the sqr of X) so that a lin
 
 
 ### **Neural Network**  
-The first layer of the **Neural Network** is the input layer, 
+- The first layer of the **Neural Network** is the input layer, for image identification then it is the number of pixels.  
+- The activation of each Neuron for the second layer is based on a **w**, weight, times the previous layer,  then + **bias**, then times the **Sigmoid**.  
+- then compose the sum with other functions, one way is called the ReLu, or sigmoid squishification.   
+- find the right **weight** and **Bias**  
+- the largest in the output layer is what we want.  
+  
+The **weight** is like the strength of the connection between Neuron, and the  **Bias** is like likelihood of that **Neuron** being active.  
+**Cost Function** : add up (what value for the output layer we want - what it actually gives)^2  
+and we want the cost function to be small.  
+then calculate the average of the cost function.  
+Plot out the Cost Function, find the minimum pt, but sometimes it will just end up in local minimum.  
+
+### **Back Propagation**  
+**This is how Neural Network Learn**  
+
+
 
 
 ### **Gradient Descent**  
