@@ -18,7 +18,12 @@ For now, we should first create labels for
 Gieve **Cars** and **People** higher priority
   
 Then move onto traffic cones, barrels, and barricades. Last and most difficult will be deer.  
-For traffic lights, our object detection doesn't care about state of traffic light, we have post classification for that, so no we just want to know where the traffic light as and do not care about the state for right now.
+For traffic lights, our object detection doesn't care about state of traffic light, we have post classification for that, so no we just want to know where the traffic light as and do not care about the state for right now.  
+
+
+
+## **YOLO v8**  
+https://huggingface.co/Ultralytics/YOLOv8
 
 
 
