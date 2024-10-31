@@ -11,8 +11,8 @@ Find some batter Models that do the label auto
 
 ## **Tasks**  
 For now, we should first create labels for 
-  - **traffic signs** (stop sign, yield, speed limit, rail road crossing),
-  - **pedestrians**
+  - **traffic signs** (stop sign, yield, speed limit, rail road crossing)  
+  - **pedestrians**  
   - **cars**  
   
 Then move onto traffic cones, barrels, and barricades. Last and most difficult will be deer.  
